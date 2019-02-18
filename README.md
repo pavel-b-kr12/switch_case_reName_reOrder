@@ -11,8 +11,9 @@ case 2:
 case 4:  
 //case 5:  
 
-C# 
-[process online] (https://tio.run/##TY7BSsNAEIbPnacYckpITdukQZolxYsHQYK0ogf1sKbTdCFNw84GK6WvbtxNBTuHhW/22//fkm9KVj0brZoKOYc7D9BOKZlwlmEco4B/cDSZXG7TDKWUjgecZ5Ak4AnoVWOwlmyKfCrARq6orWVJPvDYxr9vwswbwz5fAp5cl9OL/ElqJn8fvci6o2jd1sr4XuYFb9OPQAza1i@WQ2yAjk8wupQUAkaaTKcbLEL7ZLDP7qDa/uvaDcN/97K48s9giwD6V60MPaqGfA5EH8@TFLeylNXXJ85naYq7zY52t7hYLCo7P4fWqEPD/aTL1t9saB8909FEK6q6Wur7Y6uJ2RluRUfxJz00Jol/AQ)
+C#  
+process online:  
+https://tio.run/##TY0xa8MwEIXn6Fccmmzc2I3dLhIuWToUiilJaYa2g3CvQSArRieDS8hfryvFgXQ57r373ruWli3pibzTdg9UszVnAK0ihJWAsgTJriKqopiv9wKUUlGf5Z1gVcW4nLT1YBT5pl6uJCOoYYO9US0mDOiGwZp/fGWCh62rHxgcwzfQ38kcCZk0Gke2iD1N/aIcYdLlb8oMmG97o33CBU/fbz9TyRZzqgmbQz84C00WrjJWnOJAQ3jpO6NZdkVn4x9@Yqmcdk57fNYWEwrq99B7fbA0FYPY/pDHLn/F0ecb3A9Gucexd0gUiWjhKC/Qk/VV@Qc
 
 
 ### increment reorder from first
@@ -24,8 +25,9 @@ case 2:
 case 3:  
 //case 4:  
 
-C#
-[process online] (https://tio.run/##TY7BSsNAEIbPnacYckpIm9qkQZol4sWDIEFa0YN6WNNpupCmYWeDldJXN@42hTqHZf@Zb77dkiclq56NVk2FnMO9B2irlEw4yzCOUcA1uDSdDtM0Qymly@c4zyBJwBPQq8ZgLdkU@WQmwDqX1NayJB94bP0f6zDzxrDL7wCP7jG18Qfc8gG6zhFGTlLkz1Iz@bvoVdYdRau2Vsb3Mi94v/kMBIyGtcLeNJlON1iEdiqc4uQOqu3HLsIzG4ZXdmj8409gnQD9m1aGnlRDPgeij@dJihtZyur7C@ezNMXtekvbW1wsFpWt331r1L7hftplqx82tIte6GCiJVVdLfXDodXE7AjXooO4QI@NSeI/)
+C#  
+process online:  
+https://tio.run/##TY0xa8MwEIXn6Fccmmzc2I3dLhIuWToUiilJaYa2g3CvQSArRieDS8hfryvFgXQ57r373ruWli3pibzTdg9UszVnAK0ihJWAsgTJriKqopiv9wKUUlGf5Z1gVcW4nLT1YBT5pl6uJKN6g71RLSYM6IbBmn98ZYKHrasfGBzDL9DfyRwIiTQaR7aILU39ohxh0uVvygyYb3ujfcIFT99vP1PJFnOqCZtDPzgLTRauMlac4kBDeOk7o1l2RWfjH35iqZx2Tnt81hYTCur30Ht9sDQVg9j@kMcuf8XR5xvcD0a5x7F3SBSJaOEoL9CT9VX5Bw
 
 ### TODO
 please write in pyton with file input-output, so we can use drag and drop
