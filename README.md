@@ -44,6 +44,21 @@ case 4:   //not328
 C#  
 process online:  
 https://tio.run/##XZBNS8QwEIbPzq8Ycmr9SHQVWRoqC@JBUA@7oudQxiXYpCWTQmXZv25N3ArqHGaYd575YBo@a9hOHIP1W@QaVgIRoTFMuKhQZkOlfBcvrpcH@apKxLd0uViCUrPIIPTPnKZzjnx8NOG9FodeoQGsj9gajk/1uQau19S3pqECkE8BV0IeixRdfQO4g7TDvhVOvph2IHnb@Wis5@LX5LLETO3gKFAcgkehlDiZO3Qu7bOjNp33F/zH7KHU02uwkR6sp4JT9tn10XaeJzVUmw@O5OQzjVGuaTu0JtyNfSDmTGSJRj1D9z495Qs
+
+
+### enable (uncomment) marked cases
+```
+//case 2: ..... //not168  
+case 4:   //not328  
+//case 4:s  
+>>  
+case 2: ..... //not168  
+case 4:   //not328  
+//case 4:s    
+```
+C#  
+process online:  
+https://tio.run/##VZDBSsQwEIbPzlMMObVSU10XWRoqC@JBUA/roudQxiXYpiWTQmXZV7cm3RY0hwz5@b4/IRVfVWxG9s7YA3IJW4GIkOeVZsJVgTIuzHPb@pu7DUzxugjMFN2uNgu7LhiEWpqqtmnI@hftvkpxdoUCMNZjrdm/ltcKuNxRV@uKEkDOALdCXoowm/Ie8AjhDvOZNPJd1z3Jh9Z6bSwnf5rTFCN1hAtHvncWl75ZykLh9DaRifNMVRROcaM6BP/1WVuYE6Rq/HDG07OxlHA4/bSdN63lMe@Lt2/21Mg9DV7u6NDX2j0OnSPmSMSIBjVDTzZ81S8
 ### TODO
 please write in pyton with file input-output, so we can use drag and drop
 
