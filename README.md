@@ -23,7 +23,7 @@ case 2: .....
 case 4:  
 //case 4:  
 >>  
-case 2:  
+case 2: ..... 
 case 3:  
 //case 4:  
 ```
@@ -31,6 +31,19 @@ C#
 process online:  
 https://tio.run/##TY0xa8MwEIXn6Fccmmzc2I3dLhIuWToUiilJaYa2g3CvQSArRieDS8hfryvFgXQ57r373ruWli3pibzTdg9UszVnAK0ihJWAsgTJriKqopiv9wKUUlGf5Z1gVcW4nLT1YBT5pl6uJKN6g71RLSYM6IbBmn98ZYKHrasfGBzDL9DfyRwIiTQaR7aILU39ohxh0uVvygyYb3ujfcIFT99vP1PJFnOqCZtDPzgLTRauMlac4kBDeOk7o1l2RWfjH35iqZx2Tnt81hYTCur30Ht9sDQVg9j@kMcuf8XR5xvcD0a5x7F3SBSJaOEoL9CT9VX5Bw
 
+### disable (comment out) marked cases
+```
+case 2: ..... //not168  
+case 4:   //not328  
+//case 4:s  
+>>  
+//case 2: ..... //not168  
+case 4:   //not328  
+//case 4:s    
+```
+C#  
+process online:  
+https://tio.run/##XZBNS8QwEIbPzq8Ycmr9SHQVWRoqC@JBUA@7oudQxiXYpCWTQmXZv25N3ArqHGaYd575YBo@a9hOHIP1W@QaVgIRoTFMuKhQZkOlfBcvrpcH@apKxLd0uViCUrPIIPTPnKZzjnx8NOG9FodeoQGsj9gajk/1uQau19S3pqECkE8BV0IeixRdfQO4g7TDvhVOvph2IHnb@Wis5@LX5LLETO3gKFAcgkehlDiZO3Qu7bOjNp33F/zH7KHU02uwkR6sp4JT9tn10XaeJzVUmw@O5OQzjVGuaTu0JtyNfSDmTGSJRj1D9z495Qs
 ### TODO
 please write in pyton with file input-output, so we can use drag and drop
 
