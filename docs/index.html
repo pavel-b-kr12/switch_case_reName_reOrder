@@ -1,1 +1,18 @@
-test
+<!DOCTYPE html>
+<html>
+<body>
+<p id="strHolder">qwe rty</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+  strHolder=document.getElementById("strHolder");
+  var str = strHolder.innerHTML; 
+  var res = str.replace("qwe", "111");
+  strHolder.innerHTML = res;
+}
+</script>
+
+</body>
+</html>
