@@ -1,5 +1,6 @@
 # switch_case_reName_reOrder
 software helps to rename or reorder switch cases with increment if needed
+
 (to skip in renumbering delete word 'case')
 
 ### increment if last was not less
