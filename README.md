@@ -1,13 +1,15 @@
 # switch_case_reName_reOrder
 software helps to rename or reorder switch cases with increment if needed
-
+(to skip in renumbering delete word 'case')
 
 ### increment if last was not less
 ```
 case 2: .....  
 case 4:  
 //case 4:  
->>  
+```
+to
+``` 
 case 2:  
 case 4:  
 //case 5:  
@@ -22,7 +24,9 @@ https://tio.run/##TY5NS8NAEEDPnV8x7CkhmtRUL7uk9OJBkCCt2IN6WOJYFpJt2NlApPSvG7OJ0F
 case 2: .....  
 case 4:  
 //case 4:  
->>  
+```
+to
+``` 
 case 2: ..... 
 case 3:  
 //case 4:  
@@ -36,7 +40,9 @@ https://tio.run/##TY0xa8MwEIXn6Fccmmzc2I3dLhIuWToUiilJaYa2g3CvQSArRieDS8hfryvFgX
 case 2: ..... //not168  
 case 4:   //not328  
 //case 4:s  
->>  
+```
+to
+``` 
 //case 2: ..... //not168  
 case 4:   //not328  
 //case 4:s    
@@ -51,7 +57,9 @@ https://tio.run/##XZBNS8QwEIbPzq8Ycmr9SHQVWRoqC@JBUA@7oudQxiXYpCWTQmXZv25N3ArqHG
 //case 2: ..... //not168  
 case 4:   //not328  
 //case 4:s  
->>  
+```
+to
+``` 
 case 2: ..... //not168  
 case 4:   //not328  
 //case 4:s    
